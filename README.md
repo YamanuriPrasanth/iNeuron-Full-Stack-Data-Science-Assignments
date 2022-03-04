@@ -1,7 +1,7 @@
 # iNeuron Full Stack Data Science Course:
 
 ### 1. Python Assignments
-- [Python Basic ***(1/25)***]
+- [Python Basic ***(25/25)***]
 - [Python Programming Basic ***(0/25)***]
 - [Python Advance ***(0/25)***]
 - [Python Advance Programming ***(0/25)***]
