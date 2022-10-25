@@ -2,9 +2,9 @@
 
 ### 1. Python Assignments
 - [Python Basic ***(25/25)***]
-- [Python Programming Basic ***(10/25)***]
+- [Python Programming Basic ***(25/25)***]
 - [Python Advance ***(25/25)***]
-- [Python Advance Programming ***(0/25)***]
+- [Python Advance Programming ***(25/25)***]
 
 
 ### 2. Business Analytics Assignments
